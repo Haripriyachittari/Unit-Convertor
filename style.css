@@ -23,6 +23,9 @@
     box-sizing: border-box;
     font-family: 'Montserrat', sans-serif;
 }
+body{
+    background-color: rgb(199, 214, 243);
+}
 .container {
     margin: 0px auto;
     width: 40%;
